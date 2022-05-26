@@ -1,6 +1,7 @@
 @import url(../css/global/global.css);
 @import url(../css/utilities/tipografia.css);
 @import url(../css/utilities/cores.css);
+@import url(../css/global/footer.css);
 
 @import url(../css/global/header.css);
 /*Utilitarios*/
@@ -14,10 +15,12 @@
 
 /*Bicicletas*/
 @import url(../css/bicicletas/bicicletas-lista.css);
+@import url(../css/bicicletas/bicicletas.css);
 
 /*Seguros*/
 @import url(../css/seguros/seguros.css);
 
-
+/*Termos*/
+@import url(../css/termos/termos.css);
 
 
