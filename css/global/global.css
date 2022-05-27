@@ -11,7 +11,8 @@ h2,
 h3,
 ul,
 li,
-blockquote {
+blockquote,
+dd {
   margin: 0px;
   padding: 0px;
 }
